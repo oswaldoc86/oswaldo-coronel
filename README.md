@@ -18,3 +18,9 @@ If you have any interesting projects, I am open to hearing about them and would 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,git,gulp,pug,bootstrap,vue,react,angular,ts,vscode,mysql,php)](https://www.linkedin.com/in/oswaldocoronel/details/skills/)
 
 ------------------------------------------------------------------
+
+# Projects:
+
+[![My Skills](https://skills.thijs.gg/icons?i=vue)](https://github.com/oswaldoc86/task-manager) 
+  > 🚧 Under construction 🚧 
+### Task Manager
